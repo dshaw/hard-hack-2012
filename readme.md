@@ -15,6 +15,7 @@ This is not a hackathon. There will be no prizes other than the satisfaction of 
 - BYOH: Bring something to share. Get in free.
 - Take It Home: $100 and you get to take home your own hardware kit.
 - Open Hack: Free to attend and use the provided hardware. (extremely limited)
+
 Snacks and beverages will be provided. 
 
 Space is limited. Please register early so we can accurately gauge participation. We actually have to order physical stuff  and it takes time to get that fulfilled.
@@ -26,3 +27,7 @@ Space is limited. Please register early so we can accurately gauge participation
 - Mini LCDs
 - Sensors
 - Lasers
+
+## PROJECTS
+
+- [Musical Instruments](https://github.com/dshaw/hard-hack-2012/blob/master/projects/musical-instruments.md)
