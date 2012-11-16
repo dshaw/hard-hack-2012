@@ -31,4 +31,4 @@ Space is limited. Please register early so we can accurately gauge participation
 ## PROJECTS
 
 - [Musical Instruments](https://github.com/dshaw/hard-hack-2012/blob/master/projects/musical-instruments.md)
-- [Musical Instruments](https://github.com/gleitz/hard-hack-2012/blob/master/projects/musical-instruments.md)
+- [Rotary Dial](https://github.com/dshaw/hard-hack-2012/blob/master/projects/rotary-dial.md)

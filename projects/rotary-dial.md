@@ -1,4 +1,4 @@
-# Musical Instruments
+# Rotary Dial
 
 Vintage Rotary Phone from @gleitz
 
