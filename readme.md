@@ -11,6 +11,10 @@ This event is an open collaboration for the Node.js community led by @dshaw.  Ju
 
 This is not a hackathon. There will be no prizes other than the satisfaction of making something awesome! There will be very little in the way of talks. We're going to get together, collaborate and hack. This is more NodeConf SummerCamp than NodeConf. Sharing. Enjoying each other's company. Learning and exploring. And JavaScript. Lots of JavaScript.
 
+## REGISTRATION
+
+https://tito.io/voxer-events/hard-hack
+
 ## TICKET INFO
 - BYOH: Bring something to share. Get in free.
 - Take It Home: $100 and you get to take home your own hardware kit.
@@ -34,3 +38,5 @@ Space is limited. Please register early so we can accurately gauge participation
 - [Musical Instruments](https://github.com/dshaw/hard-hack-2012/blob/master/projects/musical-instruments.md)
 - [Plant Watering Robot](https://github.com/dshaw/hard-hack-2012/blob/master/projects/plant-watering-robot.md)
 - [Rotary Dial](https://github.com/dshaw/hard-hack-2012/blob/master/projects/rotary-dial.md)
+
+[Add another project...](https://github.com/dshaw/hard-hack-2012/tree/master/projects)
