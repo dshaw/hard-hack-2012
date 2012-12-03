@@ -1,6 +1,7 @@
 # Node.js Hardware Hack Weekend
 
 __December 8th–9th, 2012__<br>
+__10am - 5pm__<br>
 760 Market Street Fifth Floor San Francisco, CA 94102
 
 Voxer is hosting __Node.js Hardware Hack Weekend__, a Node.js hardware hacking weekend on December 8-9, 2012 in downtown San Francisco, CA.
